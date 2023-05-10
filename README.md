@@ -1,16 +1,11 @@
-# mbanking_mock
+# mobile_banking_frontend
 
-A new Flutter project.
+CMKL (Aice) Spring 2023 2nd R&D Project for Next Gen Mobile Banking
 
-## Getting Started
+by Panuong (me)
+pdangkaj@cmkl.ac.th
+Krittin (Roong) 
+kkamolpo@cmkl.ac.th
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+File home_screen.dart in '...\lib\bkk_screen\home_screen\home_screen.dart' is done by Dr. Sorakit's team (Our Project Advisor)
+By Pi Fourth https://github.com/fourthw44
